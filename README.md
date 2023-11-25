@@ -7,7 +7,7 @@
   </div>
   
   <h3>Stacks:</h3>
-  <div style="display: inline_block, margin-bottom: 1rem"><br>
+  <div style="display: flex, margin-bottom: 1rem, justify-content: center"><br>
     <img align="center" alt="HTML" height="50" width="45"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="50" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
