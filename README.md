@@ -5,21 +5,21 @@
     <img height="150px" width="385px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrocha18&layout=compact&langs_count=7&theme=dracula"/>
     <hr>
   </div>
-  <h3>Stacks Front-End:</h3>
-  <div style="display: flex,justify-content: center, items-align: center"><br>
-    <img style="border-radius: 10px" align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img style="border-radius: 10px" align="center" alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img style="border-radius: 10px" align="center" alt="Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img style="border-radius: 10px" align="center" alt="React" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img style="border-radius: 10px" align="center" alt="Next" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-wordmark.svg">
-    <img style="border-radius: 10px" align="center" alt="TypeScript" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img style="border-radius: 10px" align="center" alt="Bootstrap" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-    <img style="border-radius: 10px" align="center" alt="Tailwind" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg">
+  <h3 style="background: rgb(34, 42, 53); width: 150px; height: 25px; text-align:center; border-radius: 10px">Stacks Front-End:</h3>
+  <div style=""><br>
+    <img style="border-radius: 10px" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img style="border-radius: 10px" alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img style="border-radius: 10px" alt="Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img style="border-radius: 10px" alt="React" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img style="background: rgb(206, 224, 229); border-radius: 10px" alt="Next" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-wordmark.svg">
+    <img style="border-radius: 10px" alt="TypeScript" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img style="border-radius: 10px" alt="Bootstrap" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+    <img style="background: rgb(206, 224, 229); border-radius: 10px" alt="Tailwind" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg">
   <hr>
   </div>
-  <h3>Stacks Back-End:</h3>
-  <div style="display: flex,justify-content: center, items-align: center"><br>
-      <img style="border-radius: 10px" align="center" alt="NodeJs" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <h3 style="background: rgb(34, 42, 53); width: 145px; height: 25px; text-align:center; border-radius: 10px">Stacks Back-End:</h3>
+  <div style=""><br>
+    <img style="border-radius: 10px" align="center" alt="NodeJs" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img style="border-radius: 10px" align="center" alt="NestJS" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg">
     <img style="border-radius: 10px" align="center" alt="MySQL" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img style="border-radius: 10px" align="center" alt="MongoDB" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
