@@ -1,4 +1,4 @@
-## <em>Olá, pessoal!<br><br> Pedro Henrique aqui, navegando pelo mundo do desenvolvimento Front-End e Back-End.<br><br> Fiquem à vontade para explorar meu perfil!</em>👨🏻‍💻
+## <em>Olá, pessoal!<br><br> Pedro Henrique aqui, navegando pelo mundo do desenvolvimento Front-End e Back-End.<br><br> Fiquem à vontade para explorar meu perfil!!!!</em>👨🏻‍💻
 
    <div align="center" style="display:block">
     <img height="150px" width="385px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohrocha18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
