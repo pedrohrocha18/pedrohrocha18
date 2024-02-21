@@ -5,7 +5,7 @@
     <img height="150px" width="385px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrocha18&layout=compact&langs_count=7&theme=dracula"/>
     <hr>
   </div>
-  <h3 style="background: rgb(34, 42, 53); width: 150px; height: 25px; text-align:center; border-radius: 10px">Stacks Front-End:</h3>
+  <h3 style="background: white; color: black; width: 150px; height: 25px; text-align:center; border-radius: 10px">Stacks Front-End:</h3>
   <div style=""><br>
     <img style="border-radius: 10px" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img style="border-radius: 10px" alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,7 +17,7 @@
     <img style="background: rgb(206, 224, 229); border-radius: 10px" alt="Tailwind" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg">
   <hr>
   </div>
-  <h3 style="background: rgb(34, 42, 53); width: 145px; height: 25px; text-align:center; border-radius: 10px">Stacks Back-End:</h3>
+  <h3 style="background: white; color: black; width: 145px; height: 25px; text-align:center; border-radius: 10px">Stacks Back-End:</h3>
   <div style=""><br>
     <img style="border-radius: 10px" align="center" alt="NodeJs" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
     <img style="border-radius: 10px" align="center" alt="NestJS" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg">
