@@ -6,29 +6,30 @@
     <hr>
   </div>
   <h3>Stacks Front-End:</h3>
-  <div style="display: flex; justify-content: center; align-items: center; background: rgb(210, 224, 229); width: 450px; height: 100px; text-align:center; border-radius:10px"><br>
-    <img style="border-radius: 10px" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img style="border-radius: 10px" alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img style="border-radius: 10px" alt="Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img style="border-radius: 10px" alt="React" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img style="background: rgb(206, 224, 229); border-radius: 10px" alt="Next" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line-wordmark.svg">
-    <img style="border-radius: 10px" alt="TypeScript" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img style="border-radius: 10px" alt="Bootstrap" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-    <img style="background: rgb(206, 224, 229); border-radius: 10px" alt="Tailwind" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg">
+  <div style="display: flex; justify-content: center; align-items: center;text-align:center; gap: 5px"><br>
+    <img style="border-radius: 10px" alt="HTML" height="30" width="95" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img style="border-radius: 10px" alt="CSS" height="30" width="95" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img style="border-radius: 10px" alt="Javascript" height="30" width="95" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img style="border-radius: 10px" alt="React" height="30" width="95" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <img style="border-radius: 10px" alt="Next" height="30" width="95" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+    <img style="border-radius: 10px" alt="Typescript" height="30" width="95" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img style="border-radius: 10px" alt="Bootstrap" height="30" width="95" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img style="border-radius: 10px" alt="Tailwind" height="30" width="95" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <hr>
   </div>
   <h3>Stacks Back-End:</h3>
-  <div style="display: flex; justify-content: center; align-items: center; background: rgb(210, 224, 229); width: 350px; height: 100px; text-align:center; border-radius:10px"><br>
-    <img style="border-radius: 10px" alt="NodeJs" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img style="border-radius: 10px" alt="NestJS" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg">
-    <img style="border-radius: 10px" alt="MySQL" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img style="border-radius: 10px" alt="MongoDB" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-     <img style="border-radius: 10px" alt="Java" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <div style="display: flex; justify-content: center; align-items: center; text-align:center; gap: 5px"><br>
+    <img style="border-radius: 10px" alt="Java" height="30" width="95" src="  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img style="border-radius: 10px" alt="Node" height="30" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img style="border-radius: 10px" alt="NestJS" height="30" width="95" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
+    <img style="border-radius: 10px" alt="SQL Server" height="30" width="95" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+    <img style="border-radius: 10px" alt="MySQL" height="30" width="95" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img style="border-radius: 10px" alt="MongoDB" height="30" width="95" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
      <hr>
   </div>
   <h4> Minhas redes sociais:</h4>  
   <div> 
-  <a href=https://www.instagram.com/pedrorochaducks target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrohrocha16" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href=https://www.instagram.com/pedrorochaducks target="_blank"><img style="border-radius: 10px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrohrocha16" target="_blank"><img style="border-radius: 10px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
