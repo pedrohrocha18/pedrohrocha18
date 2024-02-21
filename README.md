@@ -6,7 +6,7 @@
     <hr>
   </div>
   <h3>Stacks Front-End:</h3>
-  <div style="display: flex; justify-content: center; align-items: center"><br>
+  <div style="display: flex; justify-content: center; align-items: center; background: rgb(210, 224, 229); width: 450px; height: 100px; text-align:center; border-radius:10px"><br>
     <img style="border-radius: 10px" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img style="border-radius: 10px" alt="CSS" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img style="border-radius: 10px" alt="Js" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -18,12 +18,12 @@
   <hr>
   </div>
   <h3>Stacks Back-End:</h3>
-  <div style="display: flex; justify-content: center; align-items: center"><br>
-    <img style="border-radius: 10px" align="center" alt="NodeJs" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    <img style="border-radius: 10px" align="center" alt="NestJS" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg">
-    <img style="border-radius: 10px" align="center" alt="MySQL" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img style="border-radius: 10px" align="center" alt="MongoDB" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-     <img style="border-radius: 10px" align="center" alt="Java" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+  <div style="display: flex; justify-content: center; align-items: center; background: rgb(210, 224, 229); width: 350px; height: 100px; text-align:center; border-radius:10px"><br>
+    <img style="border-radius: 10px" alt="NodeJs" height="50" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img style="border-radius: 10px" alt="NestJS" height="70" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg">
+    <img style="border-radius: 10px" alt="MySQL" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img style="border-radius: 10px" alt="MongoDB" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+     <img style="border-radius: 10px" alt="Java" height="60" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
      <hr>
   </div>
   <h4> Minhas redes sociais:</h4>  
