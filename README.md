@@ -15,8 +15,8 @@
     <img style="border-radius: 10px" alt="React" height="30" width="95" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img style="border-radius: 10px" alt="Next" height="30" width="95" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img style="border-radius: 10px" alt="Node" height="30" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img style="border-radius: 10px" alt="PHP" height="30" width="95" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
-    <img style="border-radius: 10px" alt="Laravel" height="30" width="95" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original-wordmark.svg">
+    <img style="border-radius: 10px" alt="PHP" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/php/php-original.svg">
+    <img style="border-radius: 10px" alt="Laravel" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/laravel/laravel-original-wordmark.svg">
      <hr>
 
   </div>
