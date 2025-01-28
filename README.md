@@ -1,4 +1,4 @@
-## <em>Olá, pessoal! Pedro Henrique aqui, sejam bem-vindos!👨🏻‍💻<br><br>
+## <em>"Olá, pessoal! Sejam todos muito bem-vindos!👨🏻‍💻<br><br>
 
 <em>"O que mais me motiva é o processo de transformar cada linha de código em soluções funcionais e completas. Ver um programa tomar forma e ganhar funcionalidades me inspira a continuar aprendendo e me aperfeiçoando constantemente."</em>
 
