@@ -10,7 +10,7 @@
   <h3>Stacks:</h3>
   <div style="display: flex; justify-content: center; align-items: center;text-align: center; gap: 5px"><br>
     <img style="border-radius: 10px" alt="React" height="30" width="95" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-     <img style="border-radius: 10px" alt="Vue" height="30" width="95" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+     <img style="border-radius: 10px" alt="Vue" height="30" width="95" src="[https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
      <img style="border-radius: 10px" alt="Typescript" height="30" width="95" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img style="border-radius: 10px" alt="Node" height="30" width="95" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
      <img style="border-radius: 10px" alt="Express" height="30" width="95" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
