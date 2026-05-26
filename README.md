@@ -18,7 +18,7 @@ Construindo APIs robustas, microsserviços e sistemas escaláveis.
 - Spring Security + JWT
 - AWS
 - Docker
-- Mensageria com RabbitMQ
+- RabbitMQ
 - Testes automatizados
 
 ⚡ Atualmente desenvolvendo projetos reais como:
@@ -33,11 +33,9 @@ Me tornar um engenheiro backend especialista em ecossistema Java/Spring.
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=pedrohrocha18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrocha18&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohrocha18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrocha18&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -51,6 +49,7 @@ Me tornar um engenheiro backend especialista em ecossistema Java/Spring.
 <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+<img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 
 </div>
 
@@ -78,19 +77,6 @@ Me tornar um engenheiro backend especialista em ecossistema Java/Spring.
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-
-</div>
-
----
-
-# 🎨 Frontend
-
-<div align="center">
-
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 
 </div>
 
