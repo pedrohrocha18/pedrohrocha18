@@ -1,32 +1,19 @@
 # 👨🏻‍💻 Pedro Rocha
 
-```java
-Backend Developer | Java & Spring Boot
-Construindo APIs robustas, microsserviços e sistemas escaláveis.
+```text
+Full Stack Developer | Java, Spring Boot, React, Next.js & TypeScript
+Construindo aplicações completas, da interface à API.
 ```
 
-> *"Gosto de transformar problemas reais em soluções performáticas. Meu foco é evoluir constantemente como engenheiro backend, aprofundando arquitetura, microsserviços, cloud e boas práticas de desenvolvimento."*
+> *"Gosto de transformar problemas reais em soluções modernas, performáticas e bem estruturadas, conectando experiência do usuário, regras de negócio e tecnologia."*
 
 ---
 
 # 🚀 Sobre mim
 
-💻 Desenvolvedor focado em **Backend Java**  
-🧠 Estudando profundamente:
-- Microsserviços
-- Clean Architecture
-- Spring Security + JWT
-- AWS
-- Docker
-- RabbitMQ
-- Testes automatizados
+Desenvolvedor **Full Stack** com foco em **Java, Spring Boot, React, Next.js e TypeScript**. Atuo com aplicações web, APIs REST, integrações, regras de negócio e bancos relacionais.
 
-⚡ Atualmente desenvolvendo projetos reais como:
-- **EasyPay** → carteira digital por evento
-- **NotifyHub** → plataforma moderna de notificações baseada em microsserviços
-
-🎯 Objetivo:
-Me tornar um engenheiro backend especialista em ecossistema Java/Spring.
+Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consultor Técnico Sankhya na Kryia Tecnologia**.
 
 ---
 
@@ -40,7 +27,22 @@ Me tornar um engenheiro backend especialista em ecossistema Java/Spring.
 
 ---
 
-# 🛠️ Backend Stack
+# 🎨 Frontend Stack
+
+<div align="center">
+
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</div>
+
+---
+
+# ⚙️ Backend Stack
 
 <div align="center">
   
@@ -83,15 +85,10 @@ Me tornar um engenheiro backend especialista em ecossistema Java/Spring.
 
 ---
 
-# 🧠 Atualmente estudando
+# 🚀 Projetos em destaque
 
-- Arquitetura de Microsserviços
-- Spring Cloud
-- Mensageria e filas
-- Segurança com JWT
-- Testes com JUnit + Mockito
-- Observabilidade e logs profissionais
-- Deploy e infraestrutura cloud
+- **EasyPay** — carteira digital por evento
+- **NotifyHub** — plataforma de notificações baseada em microsserviços
 
 ---
 
@@ -113,6 +110,6 @@ Me tornar um engenheiro backend especialista em ecossistema Java/Spring.
 
 <div align="center">
 
-### ⚡ “Código limpo, arquitetura sólida e aprendizado constante.”
+### ⚡ “Interfaces modernas, APIs robustas e aprendizado constante.”
 
 </div>
