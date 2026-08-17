@@ -1,9 +1,10 @@
+````markdown
 # 👨🏻‍💻 Pedro Rocha
 
 ```text
 Full Stack Developer | Java, Spring Boot, React, Next.js & TypeScript
 Construindo aplicações completas, da interface à API.
-```
+````
 
 > *"Gosto de transformar problemas reais em soluções modernas, performáticas e bem estruturadas, conectando experiência do usuário, regras de negócio e tecnologia."*
 
@@ -20,9 +21,9 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrohrocha18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <img height="170px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrohrocha18&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pedrohrocha18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrocha18&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
@@ -45,7 +46,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 # ⚙️ Backend Stack
 
 <div align="center">
-  
+
 <img alt="Java" src="https://img.shields.io/badge/Java_8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -87,8 +88,8 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 
 # 🚀 Projetos em destaque
 
-- **EasyPay** — carteira digital por evento
-- **NotifyHub** — plataforma de notificações baseada em microsserviços
+* **EasyPay** — carteira digital por evento
+* **NotifyHub** — plataforma de notificações baseada em microsserviços
 
 ---
 
@@ -113,3 +114,4 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 ### ⚡ “Interfaces modernas, APIs robustas e aprendizado constante.”
 
 </div>
+```
