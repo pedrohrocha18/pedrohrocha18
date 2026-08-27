@@ -1,105 +1,71 @@
 <div align="center">
 
-# Pedro Henrique Rocha Gonçalves
+# 👋 Olá, eu sou o Pedro
 
-**Full Stack Developer**  
+### Desenvolvedor Full Stack
+
 Java · Spring Boot · React · Next.js · TypeScript
 
 <br/>
 
-<a href="mailto:phr.tech@outlook.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pedrohrocha16">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/pedrohrocha18">GitHub</a>
+<a href="mailto:phr.tech@outlook.com">
+  <img src="https://img.shields.io/badge/Email-phr.tech%40outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+## 
+
+<a href="https://www.linkedin.com/in/pedrohrocha16">
+  <img src="https://img.shields.io/badge/LinkedIn-pedrohrocha16-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
 ---
 
-### Olá, eu sou o Pedro
+### Sobre mim
 
-Sou desenvolvedor Full Stack com foco em criar aplicações web completas, conectando interfaces modernas, APIs bem estruturadas e regras de negócio reais.
+Sou desenvolvedor Full Stack com foco em criar aplicações web completas, conectando **interfaces modernas**, **APIs bem estruturadas** e **regras de negócio reais**.
 
-Tenho experiência com desenvolvimento de sistemas corporativos, ERPs, dashboards, relatórios, integrações, autenticação, autorização, filtros, paginação e fluxos baseados em permissões.
+Tenho experiência com sistemas corporativos, ERPs, dashboards, relatórios, integrações, autenticação, autorização e fluxos baseados em permissões.
 
-No backend, trabalho principalmente com **Java**, **Spring Boot**, **Spring Data JPA**, **Hibernate**, **Spring Security**, **JWT**, APIs REST e documentação com **Swagger/OpenAPI**.  
-No frontend, atuo com **React**, **Next.js**, **TypeScript**, **JavaScript**, HTML e CSS.
-
----
-
-### Stack principal
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Backend</strong>
-      <br/><br/>
-      Java 8 · Java 17<br/>
-      Spring Boot · Spring Data JPA<br/>
-      Hibernate · Spring Security<br/>
-      JWT · REST APIs · Swagger/OpenAPI
-    </td>
-    <td width="50%" valign="top">
-      <strong>Frontend</strong>
-      <br/><br/>
-      React · Next.js<br/>
-      TypeScript · JavaScript<br/>
-      HTML5 · CSS3<br/>
-      Interfaces responsivas
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Dados e mensageria</strong>
-      <br/><br/>
-      PostgreSQL · Oracle<br/>
-      SQL Server · MySQL<br/>
-      RabbitMQ
-    </td>
-    <td width="50%" valign="top">
-      <strong>Ferramentas e práticas</strong>
-      <br/><br/>
-      Docker · Git · GitHub<br/>
-      Postman · JUnit · Mockito<br/>
-      Clean Code · SOLID · Scrum
-    </td>
-  </tr>
-</table>
+Atualmente trabalho principalmente com **Java**, **Spring Boot**, **React**, **Next.js** e **TypeScript**.
 
 ---
 
-### Experiência recente
+### Tecnologias que uso
 
-**SoftMakers BR**  
-Desenvolvimento de interfaces responsivas com React, Next.js e TypeScript, integração com APIs REST, módulos de lançamentos, controle de acessos, auditoria, permissões orçamentárias, filtros, paginação e históricos.
+<div align="center">
 
-**Kryia Tecnologia**  
-Dashboards e indicadores no Sankhya BI, consultas SQL para relatórios financeiros, drill-downs, filtros, parametrizações, regras de negócio e customizações em ambiente ERP.
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,js,html,css,postgres,mysql,docker,git,github,postman" alt="Tecnologias"/>
 
-**Evo Network**  
-Desenvolvimento backend em Java para sistemas ERP, manutenção evolutiva, implementação de regras de negócio, sustentação de sistemas e otimização de consultas SQL em Oracle e SQL Server.
+</div>
+
+<br/>
+
+**Backend:** Java 8/17, Spring Boot, Spring Data JPA, Hibernate, Spring Security, JWT, REST APIs, Swagger/OpenAPI  
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3  
+**Banco de dados:** PostgreSQL, Oracle, SQL Server, MySQL  
+**Ferramentas e práticas:** Docker, RabbitMQ, Git, GitHub, Postman, JUnit, Mockito, Clean Code, SOLID, Scrum
 
 ---
 
 ### Projeto em destaque
 
-**EasyPay**  
-API REST de carteira digital para eventos, voltada ao gerenciamento de saldo e transações financeiras.
+#### EasyPay
 
-Principais pontos:
+API REST de carteira digital para eventos, desenvolvida para gerenciar saldos e transações financeiras com segurança e praticidade.
 
-- Integração com gateway de pagamento Mercado Pago
+- Integração com Mercado Pago
 - Autenticação e autorização com Spring Security e JWT
-- Modelagem de dados com PostgreSQL, JPA/Hibernate e Docker
+- Persistência com PostgreSQL, JPA/Hibernate e Docker
 - Testes unitários com JUnit e Mockito
 - Documentação com Swagger/OpenAPI
-- Tratamento global de exceções e arquitetura em camadas
+- Arquitetura em camadas, Clean Code e SOLID
 
 ---
 
 <div align="center">
 
-**Interfaces modernas, APIs robustas e aprendizado constante.**
+### Interfaces modernas, APIs robustas e aprendizado constante.
 
 </div>
