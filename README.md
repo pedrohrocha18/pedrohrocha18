@@ -1,17 +1,16 @@
-# 👨🏻‍💻 Pedro Rocha
+# Olá, eu sou o Pedro Rocha 👋
 
-```text
-Full Stack Developer | Java, Spring Boot, React, Next.js & TypeScript
-Construindo aplicações completas, da interface à API.
-```
+### Desenvolvedor Full Stack | Java • Spring Boot • React • Next.js • TypeScript
 
-> **"Gosto de transformar problemas reais em soluções modernas, performáticas e bem estruturadas, conectando experiência do usuário, regras de negócio e tecnologia."**
+Desenvolvo aplicações completas, da interface à API, transformando problemas reais em soluções modernas, performáticas e bem estruturadas.
 
-Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consultor Técnico Sankhya na Kryia Tecnologia**, atuando com desenvolvimento web, APIs REST, integrações, dashboards, relatórios, regras de negócio e sistemas corporativos.
+Tenho experiência com desenvolvimento web, APIs REST, integrações, dashboards, relatórios, regras de negócio e sistemas corporativos. Gosto de unir uma boa experiência de usuário a um backend robusto, com código limpo e foco em evolução contínua.
+
+> Interfaces modernas, APIs robustas e aprendizado constante.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -23,7 +22,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 
 ---
 
-# 🧠 Frontend Stack
+## 🎨 Frontend
 
 <div align="center">
 
@@ -38,7 +37,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 
 ---
 
-# ⚙️ Backend Stack
+## ⚙️ Backend
 
 <div align="center">
 
@@ -56,7 +55,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 
 ---
 
-# 🗄️ Database & Tools
+## 🗄️ Bancos de dados e ferramentas
 
 <div align="center">
 
@@ -74,7 +73,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 
 ---
 
-# 🧪 Tests & Practices
+## 🧪 Testes e boas práticas
 
 <div align="center">
 
@@ -88,7 +87,7 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 
 ---
 
-# 🤖 AI Tools
+## 🤖 Ferramentas de IA
 
 <div align="center">
 
@@ -99,15 +98,13 @@ Atualmente trabalho como **Desenvolvedor Full Stack na SoftMakers BR** e **Consu
 
 ---
 
-# 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-- ✨ **EasyPay** — carteira digital por evento
-- ✨ **NotifyHub** — plataforma de notificações baseada em microsserviços
+- **EasyPay** — carteira digital para eventos.
+- **NotifyHub** — plataforma de notificações baseada em microsserviços.
 
 ---
 
 <div align="center">
-
-### ⚡ "Interfaces modernas, APIs robustas e aprendizado constante."
-
+  <sub>Construindo soluções de ponta a ponta, uma entrega de cada vez.</sub>
 </div>
